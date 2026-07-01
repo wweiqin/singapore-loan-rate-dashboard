@@ -1,0 +1,2 @@
+-- Singapore Interest Rate and Loan Affordability Dashboard
+-- Database table definitions will be added after the datasets are confirmed.
